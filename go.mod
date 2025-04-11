@@ -1,4 +1,4 @@
-module chat2
+module github.com/arnnvv/gorilla_temp
 
 go 1.24.2
 
